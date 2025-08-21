@@ -6,6 +6,8 @@ The solution automatically loads the data into DynamoDB, checks stock availabili
 and sends notifications when items are out of stock.
 
 ##  Architecture
+<img width="975" height="462" alt="Screenshot 2025-08-21 185938" src="https://github.com/user-attachments/assets/071be7c8-98c7-4062-b68f-15bb11b70913" />
+
 The workflow is as follows:
 
 1. **Upload inventory file** → An S3 bucket receives the file.
