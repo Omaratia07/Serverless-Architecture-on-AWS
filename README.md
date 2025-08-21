@@ -28,4 +28,5 @@ The workflow is as follows:
 - Reads CSV file.
 - Inserts data into DynamoDB.
 
-Code:# 
+Code:[Load-Inventory Code](./lambda-functions/load_inventory.py) 
+
